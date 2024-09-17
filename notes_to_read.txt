@@ -1,3 +1,4 @@
 You can also use echo "type your secret message" >> secret_message.txt
-and the you can use command ```wc --chars secret_message.txt``` so you would get exact output of the length of the message you would like to encrypt
+and the you can use command ```wc --chars secret_message.txt``` 
+so you would get exact output of the length of the message you would like to encrypt
 
