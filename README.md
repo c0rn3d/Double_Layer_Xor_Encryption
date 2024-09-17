@@ -1,5 +1,3 @@
-Certainly! Here's a sample README.md file for your XOR encryption project:
-
 # XOR Encryption Project
 
 ## Overview
